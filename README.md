@@ -5,6 +5,8 @@ reserva o salão de festas, a churrasqueira e a quadra, cancela as próprias res
 autoriza visitantes e tira dúvidas sobre o regulamento. O assistente é exposto por uma API
 FastAPI em `http://localhost:8000`.
 
+Enunciado do desafio: [Full Cycle — Criação de Agente](https://plataforma.fullcycle.com.br/courses/a091b0fe-a5c6-4287-a3d3-1ec61defcfd3/413/224/266/conteudos?projeto=70&fase=309)
+
 O princípio do projeto é: **o modelo decide o caminho, o código decide o que é permitido.**
 Todas as regras críticas estão em tools, no banco e na API, e não no prompt.
 
